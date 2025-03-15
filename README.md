@@ -37,12 +37,6 @@ My name is slay3r and I'm a producer.
 <div align="left">
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/slay3r/count.svg?"  />
-</div>
-
 
 <!--
 **00slay33r/00slay33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
