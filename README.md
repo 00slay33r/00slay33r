@@ -1,11 +1,7 @@
 <h2 align="left">Hi 👋! My name is slay3r and I'm a producer.</h2>
 
 
-
 ###
-
-###
-
 
 
 <div align="left">
